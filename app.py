@@ -4,8 +4,8 @@ from mistralai import Mistral
 from PIL import Image
 import io
 from dotenv import load_dotenv
-# Convert to base64 string
 import base64
+
 
 load_dotenv()
 
